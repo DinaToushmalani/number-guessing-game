@@ -13,6 +13,7 @@ Make sure you have Python installed, open up your terminal, and run:
 ```bash
 python game.py
 ## 🛠️ Built With
+```
 * **Python 3**
 * Key concepts used: Loops, Functions, Exception Handling (`try-except`), and Input Validation.
 
